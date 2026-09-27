@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "name": "Spring Rolls",
+        "category_id": "1",
+        "available_times": "all"
+    },
+    {
+        "id": "2",
+        "name": "Soup of the Day",
+        "category_id": "1",
+        "available_times": "all"
+    },
+    {
+        "id": "3",
+        "name": "Garlic Bread",
+        "category_id": "1",
+        "available_times": "all"
+    },
+    {
+        "id": "4",
+        "name": "Grilled Chicken",
+        "category_id": "2",
+        "available_times": "all"
+    },
+    {
+        "id": "5",
+        "name": "Beef Steak",
+        "category_id": "2",
+        "available_times": "all"
+    },
+    {
+        "id": "6",
+        "name": "Pasta Carbonara",
+        "category_id": "2",
+        "available_times": "all"
+    },
+    {
+        "id": "7",
+        "name": "Fish & Chips",
+        "category_id": "2",
+        "available_times": "all"
+    },
+    {
+        "id": "8",
+        "name": "Coca Cola",
+        "category_id": "3",
+        "available_times": "all"
+    },
+    {
+        "id": "9",
+        "name": "Fresh Orange Juice",
+        "category_id": "3",
+        "available_times": "all"
+    },
+    {
+        "id": "10",
+        "name": "Coffee",
+        "category_id": "3",
+        "available_times": "all"
+    },
+    {
+        "id": "11",
+        "name": "Mineral Water",
+        "category_id": "3",
+        "available_times": "all"
+    },
+    {
+        "id": "12",
+        "name": "Chocolate Cake",
+        "category_id": "4",
+        "available_times": "all"
+    },
+    {
+        "id": "13",
+        "name": "coco cola",
+        "category_id": "3",
+        "available_times": "all"
+    },
+    {
+        "id": "14",
+        "name": "Burger & Fries",
+        "category_id": "5",
+        "available_times": "all"
+    },
+    {
+        "id": "15",
+        "name": "Pizza Margherita",
+        "category_id": "5",
+        "available_times": "all"
+    },
+    {
+        "id": "16",
+        "name": "briyaani",
+        "category_id": "2",
+        "available_times": "Lunch"
+    },
+    {
+        "id": "17",
+        "name": "coco cola",
+        "category_id": "3",
+        "available_times": "Cool Drinks"
+    }
+]

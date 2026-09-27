@@ -1,0 +1,36 @@
+Updated: Spring Rolls (cat: Starters) -> Lunch,Dinner
+Updated: Soup of the Day (cat: Starters) -> Lunch,Dinner
+Updated: Garlic Bread (cat: Starters) -> Lunch,Dinner
+Updated: Grilled Chicken (cat: Main Course) -> Lunch,Dinner
+Updated: Beef Steak (cat: Main Course) -> Lunch,Dinner
+Updated: Pasta Carbonara (cat: Main Course) -> Lunch,Dinner
+Updated: Fish & Chips (cat: Main Course) -> Lunch,Dinner
+Updated: Coca Cola (cat: Beverages) -> Coffee Time,Cool Drinks
+Updated: Fresh Orange Juice (cat: Beverages) -> Coffee Time,Cool Drinks
+Updated: Coffee (cat: Beverages) -> Coffee Time,Cool Drinks
+Updated: Mineral Water (cat: Beverages) -> Coffee Time,Cool Drinks
+Updated: Chocolate Cake (cat: Desserts) -> Lunch,Dinner,Snacks
+Updated: coco cola (cat: Beverages) -> Coffee Time,Cool Drinks
+Updated: Burger & Fries (cat: Fast Food) -> Lunch,Snacks,Dinner
+Updated: Pizza Margherita (cat: Fast Food) -> Lunch,Snacks,Dinner
+
+Total updated: 15
+
+--- Final state ---
+ID:1 [Lunch,Dinner] Spring Rolls
+ID:2 [Lunch,Dinner] Soup of the Day
+ID:3 [Lunch,Dinner] Garlic Bread
+ID:4 [Lunch,Dinner] Grilled Chicken
+ID:5 [Lunch,Dinner] Beef Steak
+ID:6 [Lunch,Dinner] Pasta Carbonara
+ID:7 [Lunch,Dinner] Fish & Chips
+ID:8 [Coffee Time,Cool Drinks] Coca Cola
+ID:9 [Coffee Time,Cool Drinks] Fresh Orange Juice
+ID:10 [Coffee Time,Cool Drinks] Coffee
+ID:11 [Coffee Time,Cool Drinks] Mineral Water
+ID:12 [Lunch,Dinner,Snacks] Chocolate Cake
+ID:13 [Coffee Time,Cool Drinks] coco cola
+ID:14 [Lunch,Snacks,Dinner] Burger & Fries
+ID:15 [Lunch,Snacks,Dinner] Pizza Margherita
+ID:16 [Lunch] briyaani
+ID:17 [Cool Drinks] coco cola

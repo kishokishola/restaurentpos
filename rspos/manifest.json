@@ -1,0 +1,18 @@
+{
+  "name": "ServePoint Restaurant POS",
+  "short_name": "ServePoint",
+  "start_url": "/RestaurantPOS/index.php",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone", "window-controls-overlay"],
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#141428",
+  "description": "Professional Restaurant POS & Billing System",
+  "icons": [
+    {
+      "src": "/RestaurantPOS/bc1.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

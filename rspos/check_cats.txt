@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Starters"
+    },
+    {
+        "id": "2",
+        "name": "Main Course"
+    },
+    {
+        "id": "3",
+        "name": "Beverages"
+    },
+    {
+        "id": "4",
+        "name": "Desserts"
+    },
+    {
+        "id": "5",
+        "name": "Fast Food"
+    },
+    {
+        "id": "6",
+        "name": "Morning Breakfast"
+    },
+    {
+        "id": "7",
+        "name": "Lunch"
+    },
+    {
+        "id": "8",
+        "name": "Dinner"
+    },
+    {
+        "id": "9",
+        "name": "Snacks"
+    },
+    {
+        "id": "10",
+        "name": "Coffee Time"
+    },
+    {
+        "id": "11",
+        "name": "Ice Creams"
+    },
+    {
+        "id": "12",
+        "name": "Cool Drinks"
+    }
+]
